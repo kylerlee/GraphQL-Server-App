@@ -1,0 +1,3 @@
+db:
+  url: ''
+  synchronize: true
